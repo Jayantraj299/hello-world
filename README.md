@@ -1,2 +1,1 @@
-# hello-world
-First git hub code
+print("hello-world")
